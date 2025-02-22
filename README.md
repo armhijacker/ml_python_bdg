@@ -1,2 +1,43 @@
 # ml_python_bdg
-Intro To Python
+The course is dedicated to providing an introductory-level intuition about Python in machine learning.
+
+Course Topics:
+* Programming Fundamentals: Introduction to Python
+  - Overview of Python
+  - Setting up the development environment
+  - Basic Python Syntax
+ 
+* Python Basics
+  - Variables, data types and basic operations
+  - Control flow: If statements and loops
+ 
+* Functions and Modules
+  - Defining functions
+  - Organizing code into modules
+  - Introduction to built-in functions
+ 
+* Classes
+  - Defining what is class, constructor (code examples)
+  - Class methods, static methods
+ 
+* Introduction to NumPy
+  - Overview of NumPy for numerical operations
+  - Basic array operations with NumPy
+ 
+* Data Visualization with Matplotlib/Seaborn
+  - Introduction to Matplotlib for creating plots and charts
+  - Visualizing data in Python
+ 
+* Introduction to Pandas
+  - Overview of pandas library for data manipulation
+  - Creating and manipulating DataFrames
+ 
+* Advanced Pandas Operations
+  - Grouping and aggregating data
+  - Merging and joining DataFrames
+ 
+* Data Visualization with Matplotlib and Pandas
+  - Combining Matplotlib and pandas for effective data visualization
+  - Visualizing data in Python
+ 
+* Exam 
