@@ -29,9 +29,10 @@ Course Topics:
 * Data Visualization with Matplotlib/Seaborn
   - Introduction to Matplotlib for creating plots and charts
   - Visualizing data in Python
-  - In Class Assignment 1
+  
  
 * Introduction to Pandas
+  - In Class Assignment Numpy
   - Overview of pandas library for data manipulation
   - Creating and manipulating DataFrames
  
@@ -40,8 +41,8 @@ Course Topics:
   - Merging and joining DataFrames
  
 * Data Visualization with Matplotlib and Pandas
+  - In Class Assignment Pandas
   - Combining Matplotlib and pandas for effective data visualization
   - Visualizing data in Python
-  - In Class Assignment 2
  
 * Exam 
