@@ -10,6 +10,7 @@ Course Topics:
 * Python Basics
   - Variables, data types and basic operations
   - Control flow: If statements and loops
+  - Homework 1
  
 * Functions and Modules
   - Defining functions
@@ -19,6 +20,7 @@ Course Topics:
 * Classes
   - Defining what is class, constructor (code examples)
   - Class methods, static methods
+  - Homework 2
  
 * Introduction to NumPy
   - Overview of NumPy for numerical operations
@@ -27,6 +29,7 @@ Course Topics:
 * Data Visualization with Matplotlib/Seaborn
   - Introduction to Matplotlib for creating plots and charts
   - Visualizing data in Python
+  - In Class Assignment 1
  
 * Introduction to Pandas
   - Overview of pandas library for data manipulation
@@ -39,5 +42,6 @@ Course Topics:
 * Data Visualization with Matplotlib and Pandas
   - Combining Matplotlib and pandas for effective data visualization
   - Visualizing data in Python
+  - In Class Assignment 2
  
 * Exam 
